@@ -9,7 +9,7 @@ PRESENT PROJECT OTTER GROUP
 
 * [ไฟล์นำเสนอใน CANVA](https://www.canva.com/design/DAE7ttYxRmA/7G-Z60hCdtWkcQ4XCtvALw/edit?utm_content=DAE7ttYxRmA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-FINAL PROJECT INCRATED GROUP
+FINAL PROJECT UNCRATED GROUP
 
 * [GITHUB](https://github.com/SuwareeThammakoonsate/data_viz_2022/blob/main/Final_Exam.ipynb)
 
